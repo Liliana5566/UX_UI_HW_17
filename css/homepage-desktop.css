@@ -1,0 +1,419 @@
+/* screen - homepage-desktop */
+
+.homepage-desktop {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 4298px;
+  overflow: hidden;
+  width: 1512px;
+}
+
+.homepage-desktop .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 2.0px;
+  min-height: 3049px;
+  width: 1512px;
+}
+
+.homepage-desktop .overlap-group {
+  height: 726px;
+  position: relative;
+  width: 1512px;
+}
+
+.homepage-desktop .rectangle-1 {
+  background-color: var(--breaker-bay);
+  height: 661px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1512px;
+}
+
+.homepage-desktop .avatar-maker-2-1 {
+  height: 639px;
+  left: 784px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 695px;
+}
+
+.homepage-desktop .name {
+  color: var(--white);
+  font-family: var(--font-family-caladea);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  left: 100px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 166px;
+  width: 751px;
+}
+
+.homepage-desktop .rectangle-24 {
+  background-color: var(--breaker-bay);
+  border: 1px solid #254e50;
+  height: 96px;
+  left: 63px;
+  position: absolute;
+  top: 630px;
+  width: 1384px;
+}
+
+.homepage-desktop .about-me {
+  left: 160px;
+  letter-spacing: 1.20px;
+  position: absolute;
+  top: 660px;
+  width: 134px;
+}
+
+.homepage-desktop .t-ools-used {
+  left: 795px;
+  letter-spacing: 1.20px;
+  position: absolute;
+  top: 660px;
+  width: 157px;
+}
+
+.homepage-desktop .skills {
+  left: 1025px;
+  letter-spacing: 1.20px;
+  position: absolute;
+  top: 660px;
+  width: 96px;
+}
+
+.homepage-desktop .contact-info {
+  left: 1187px;
+  letter-spacing: 1.20px;
+  position: absolute;
+  top: 660px;
+  width: 189px;
+}
+
+.homepage-desktop .line-5 {
+  height: 61px;
+  left: 314px;
+  position: absolute;
+  top: 645px;
+  width: 1px;
+}
+
+.homepage-desktop .line-7 {
+  height: 61px;
+  left: 506px;
+  position: absolute;
+  top: 645px;
+  width: 1px;
+}
+
+.homepage-desktop .line-8 {
+  height: 61px;
+  left: 765px;
+  position: absolute;
+  top: 645px;
+  width: 1px;
+}
+
+.homepage-desktop .line-6 {
+  height: 61px;
+  left: 984px;
+  position: absolute;
+  top: 645px;
+  width: 1px;
+}
+
+.homepage-desktop .line-5-1 {
+  height: 61px;
+  left: 1152px;
+  position: absolute;
+  top: 645px;
+  width: 1px;
+}
+
+.homepage-desktop .redesign-work {
+  left: 535px;
+  letter-spacing: 1.20px;
+  position: absolute;
+  top: 661px;
+  width: 206px;
+}
+
+.homepage-desktop .a-pp-work {
+  left: 345px;
+  letter-spacing: 1.20px;
+  position: absolute;
+  top: 661px;
+  width: 134px;
+}
+
+.homepage-desktop .flex-row {
+  align-items: center;
+  display: flex;
+  height: 33px;
+  margin-left: 5.0px;
+  margin-top: 134px;
+  min-width: 1321px;
+}
+
+.homepage-desktop .about-me-1 {
+  letter-spacing: 1.80px;
+  min-height: 33px;
+  width: 206px;
+}
+
+.homepage-desktop .line-9 {
+  height: 5px;
+  margin-left: 2px;
+  margin-top: 1.0px;
+  width: 1113px;
+}
+
+.homepage-desktop .i-started-out-with-c {
+  letter-spacing: 1.80px;
+  margin-left: 144.0px;
+  margin-top: 101px;
+  min-height: 182px;
+  text-align: center;
+  width: 1106px;
+}
+
+.homepage-desktop .flex-row-1 {
+  align-items: center;
+  display: flex;
+  height: 33px;
+  margin-left: 5.0px;
+  margin-top: 15px;
+  min-width: 1321px;
+}
+
+.homepage-desktop .a-pp-work-1 {
+  letter-spacing: 1.80px;
+  min-height: 33px;
+  width: 217px;
+}
+
+.homepage-desktop .line-9-1 {
+  height: 5px;
+  margin-left: 12px;
+  margin-top: 1.0px;
+  width: 1092px;
+}
+
+.homepage-desktop .image-container {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 21.75px;
+  margin-top: 101px;
+  min-width: 1190px;
+}
+
+.homepage-desktop .image-2 {
+  height: 596px;
+  width: 480px;
+}
+
+.homepage-desktop .image-3 {
+  height: 596px;
+  margin-left: 151px;
+  width: 559px;
+}
+
+.homepage-desktop .flex-row-2 {
+  align-items: center;
+  display: flex;
+  height: 33px;
+  margin-left: 7.0px;
+  margin-top: 91px;
+  min-width: 1319px;
+}
+
+.homepage-desktop .redesign-work-1 {
+  letter-spacing: 1.80px;
+  min-height: 33px;
+  width: 310px;
+}
+
+.homepage-desktop .line-9-2 {
+  height: 5px;
+  margin-left: 23px;
+  margin-top: 1.0px;
+  width: 986px;
+}
+
+.homepage-desktop .image-4 {
+  height: 730px;
+  margin-left: 23.0px;
+  margin-top: 101px;
+  width: 975px;
+}
+
+.homepage-desktop .flex-row-3 {
+  align-items: center;
+  display: flex;
+  height: 33px;
+  margin-left: 7.0px;
+  margin-top: 140px;
+  min-width: 1319px;
+}
+
+.homepage-desktop .t-ools-used-1 {
+  letter-spacing: 1.80px;
+  min-height: 33px;
+  width: 235px;
+}
+
+.homepage-desktop .line-9-3 {
+  height: 5px;
+  margin-left: 26px;
+  margin-top: 1.0px;
+  width: 1058px;
+}
+
+.homepage-desktop .image-container-1 {
+  align-items: center;
+  display: flex;
+  margin-top: 88px;
+  min-width: 1312px;
+}
+
+.homepage-desktop .image-5 {
+  height: 166px;
+  object-fit: cover;
+  width: 175px;
+}
+
+.homepage-desktop .image-6 {
+  height: 108px;
+  margin-left: 113px;
+  margin-top: 4.0px;
+  object-fit: cover;
+  width: 108px;
+}
+
+.homepage-desktop .image-8 {
+  height: 101px;
+  margin-bottom: 3.0px;
+  margin-left: 116px;
+  object-fit: cover;
+  width: 128px;
+}
+
+.homepage-desktop .image-9 {
+  height: 105px;
+  margin-bottom: 15.0px;
+  margin-left: 116px;
+  width: 103px;
+}
+
+.homepage-desktop .image-10 {
+  height: 105px;
+  margin-left: 116px;
+  margin-top: 7.0px;
+  object-fit: cover;
+  width: 105px;
+}
+
+.homepage-desktop .image-7 {
+  height: 113px;
+  margin-bottom: 1.0px;
+  margin-left: 116px;
+  width: 116px;
+}
+
+.homepage-desktop .flex-row-4 {
+  align-items: center;
+  display: flex;
+  height: 33px;
+  margin-left: 9.0px;
+  margin-top: 103px;
+  min-width: 1319px;
+}
+
+.homepage-desktop .skills-1 {
+  letter-spacing: 1.80px;
+  min-height: 33px;
+  width: 152px;
+}
+
+.homepage-desktop .line-9-4 {
+  height: 5px;
+  margin-left: 9px;
+  margin-top: 1.0px;
+  width: 1158px;
+}
+
+.homepage-desktop .uiux-design-wirefra {
+  letter-spacing: 1.80px;
+  margin-right: 1.0px;
+  margin-top: 29px;
+  min-height: 209px;
+  text-align: center;
+  width: 921px;
+}
+
+.homepage-desktop .flex-row-5 {
+  align-items: center;
+  display: flex;
+  height: 33px;
+  margin-left: 8.0px;
+  margin-top: 35px;
+  min-width: 1320px;
+}
+
+.homepage-desktop .contact-info-1 {
+  letter-spacing: 1.80px;
+  min-height: 33px;
+  width: 286px;
+}
+
+.homepage-desktop .line-9-5 {
+  height: 5px;
+  margin-left: 2px;
+  margin-top: 1.0px;
+  width: 1032px;
+}
+
+.homepage-desktop .image-container-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 136px;
+  margin-top: 63px;
+  min-width: 534px;
+}
+
+.homepage-desktop .image-11 {
+  height: 128px;
+  object-fit: cover;
+  width: 132px;
+}
+
+.homepage-desktop .image-12 {
+  align-self: center;
+  height: 112px;
+  margin-bottom: 7.89px;
+  margin-left: 63px;
+  width: 110px;
+}
+
+.homepage-desktop .image-13 {
+  align-self: flex-end;
+  height: 128px;
+  margin-left: 63px;
+  object-fit: cover;
+  width: 166px;
+}
+
+.homepage-desktop .rectangle-1-1 {
+  background-color: var(--breaker-bay);
+  height: 259px;
+  margin-top: 95px;
+  width: 1512px;
+}
