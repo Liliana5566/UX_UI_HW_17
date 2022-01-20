@@ -2,7 +2,7 @@
 
 .homepage-desktop {
     align-items: center;
-    background-color: var(--white);
+    background-color: var(--blue);
     display: flex;
     flex-direction: column;
     height: 4298px;
@@ -417,4 +417,28 @@
     margin-top: 95px;
     width: 1512px;
   }
-  
+  @media only screen and (max-width: 600px) {
+    #headline {
+      /*background color will turn to blue*/
+      background-color: blue;
+      position: static;
+      margin: 20px;
+    }
+    #heroGrid {
+      grid-template-areas:
+      "First two projects"
+      "Web projects";
+    }
+    #categoryGrid {
+      grid-template-rows: 300px 300px 300px 300px 300px;
+      grid-template-columns: 1fr;
+      grid-template-areas:
+        "About me"
+        "App work"
+        "Redesign Work"
+        "Tools Used"
+        "Skills"
+        "Contact Info"
+      ;
+    }
+  }
